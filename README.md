@@ -9,7 +9,7 @@
 <p>s3777800@student.rmit.edu.au (student)</p>
 <p>Zeinfarhat6@gmail.com (personal)</p>
 
-<h2>Brief profile:</h2>
+<h1>Brief profile:</h1>
 <p>I am a Bachelor of Biomedicine graduate who recently re-evaluated their career path and found IT the place to be. I am a Kuwait-born, Lebanese individual.  During my spare time when I am not doing university work, I am usually playing the guitar (been playing for 8 years or so), playing computer games, or messing around with code in python or java. 😊 </p>
 
 
@@ -21,7 +21,7 @@ I chose RMIT because of its location, facilities and diversity of industry-exper
 
 
 <h1>Ideal Job (for the time being):</h1>
-<h2>https://www.seek.com.au/job/50357297?type=standard#searchRequestToken=c124bc92-d743-4ddf-b589-39f47f259d52</h2>
+<p>https://www.seek.com.au/job/50357297?type=standard#searchRequestToken=c124bc92-d743-4ddf-b589-39f47f259d52</p>
 
 
 <p>This is a position for a junior software developer looking for an early foot in the door in the world of IT. This position is not in Melbourne (where I currently live), but still appeals to me in many aspects.
@@ -29,9 +29,8 @@ This is an ideal job for me in the meantime – looking at the required skillset
 Whilst not directly correlated to IT, my biomedicine program also taught me to be extremely careful with following protocol and understanding what is expected of me during a practical/work placement. This furthermore allowed me to develop a strong skillset in breaking down, analysing & executing a task that is expected of me.</p>
 
 <h1>Personal Profile – Myers-Briggs test, learning style test(s):</h1>
-<h2></h2>
 <h2>Myers-Briggs test (https://www.truity.com/):</h2>
-<h2>According to an online Myers-Briggs test, these are my results for my personality type:</h2>
+<p>According to an online Myers-Briggs test, these are my results for my personality type:</p>
 
 <p>INFJ – The counsellor
 INFJs are creative nurtures with a strong sense of personal integrity with a strong drive to help others realize their potential. Additionally, INFJs are creative, dedicated and have a talent for helping others with original solutions to their own personal challenges.</p>
